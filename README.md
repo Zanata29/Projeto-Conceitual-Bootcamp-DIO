@@ -1,9 +1,3 @@
-Entendi o desafio e posso ajudar com orientações para estruturar o modelo e criar a descrição do projeto conceitual para o README. Seguem os passos detalhados:
-
-Descrição do Projeto Conceitual para o README
-No README, inclua uma seção explicativa com o seguinte conteúdo:
-## Projeto Conceitual de Banco de Dados
-
 ### Contexto
 Este projeto tem como objetivo desenvolver um esquema conceitual utilizando o modelo EER, representando o cenário de um sistema que gerencia informações de clientes, pagamentos e entregas. O esquema visa atender às necessidades de organização, consulta e controle dos dados relacionados.
 
